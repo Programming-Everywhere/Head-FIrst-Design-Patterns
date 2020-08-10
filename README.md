@@ -1,6 +1,6 @@
 # Head-First-Design-Patterns
 
-4. Cricket App (tradtional way)
+# 4. Cricket App (tradtional way)
 ![ObserverPatternSet-1](https://user-images.githubusercontent.com/19642027/89806250-c6ce9180-db04-11ea-8ed0-bbecba5ffd8f.png)
 
 # 3. Coffee Order System
