@@ -7,6 +7,8 @@ Issue:
 2. currentScoreDisplay.update(runs, wickets, overs) violates one of the most important design principle "Program to interface, not implementations"
 
 # 4 - 2, use Observer Pattern
+![ObserverPatternSet-2](https://user-images.githubusercontent.com/19642027/89807011-e5815800-db05-11ea-93ba-85ff1c198039.png)
+
 
 # 3. Coffee Order System
 ![IMG_0003](https://user-images.githubusercontent.com/19642027/89669850-25e69900-d8ae-11ea-9a0a-de22d0cdbb83.JPG)
