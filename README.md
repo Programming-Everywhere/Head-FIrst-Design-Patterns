@@ -1,7 +1,12 @@
 # Head-First-Design-Patterns
 
-# 4. Cricket App (tradtional way)
+# 4 - 1. Cricket App (tradtional way)
 ![ObserverPatternSet-1](https://user-images.githubusercontent.com/19642027/89806250-c6ce9180-db04-11ea-8ed0-bbecba5ffd8f.png)
+Issue:
+1. CricketData holds references to concrete display elements objects even tho it needs to call only the update methods of these objects. 
+2. currentScoreDisplay.update(runs, wickets, overs) violates one of the most important design principle "Program to interface, not implementations"
+
+# 4 - 2, use Observer Pattern
 
 # 3. Coffee Order System
 ![IMG_0003](https://user-images.githubusercontent.com/19642027/89669850-25e69900-d8ae-11ea-9a0a-de22d0cdbb83.JPG)
