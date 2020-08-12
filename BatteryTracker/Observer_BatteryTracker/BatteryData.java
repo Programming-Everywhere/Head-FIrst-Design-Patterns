@@ -1,0 +1,3 @@
+class BatteryData implements Subject {
+	
+}

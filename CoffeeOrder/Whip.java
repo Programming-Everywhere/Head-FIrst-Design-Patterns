@@ -1,3 +1,4 @@
+
 class Whip extends CondimentDecorator {
 	Beverage beverage;
 

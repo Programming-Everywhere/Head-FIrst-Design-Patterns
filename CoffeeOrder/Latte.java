@@ -1,3 +1,4 @@
+
 class Latte extends Beverage {
 	public Latte() {
 		description = "Latte";

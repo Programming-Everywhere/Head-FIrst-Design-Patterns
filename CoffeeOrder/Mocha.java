@@ -8,7 +8,7 @@ public class Mocha extends CondimentDecorator {
 	public String getDescription() {
 		return beverage.getDescription() + ", Mocha";
 	}
-	
+
 	public double cost() {
 		return 0.2 + beverage.cost();
 	}
