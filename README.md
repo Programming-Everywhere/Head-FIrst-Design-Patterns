@@ -1,5 +1,8 @@
 # Head-First-Design-Patterns
 
+# Light Control Command
+![1  Most Purchased Items-8](https://user-images.githubusercontent.com/19642027/90249954-51ff9e00-de09-11ea-8ecf-6ac5f26e44e3.jpg)
+
 # 5 Battery Tracker Alexa
 ![1  Most Purchased Items-5](https://user-images.githubusercontent.com/19642027/90139228-14860c80-dd46-11ea-85a7-a02ce66a37fe.jpg)
 
